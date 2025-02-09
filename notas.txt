@@ -1,0 +1,1 @@
+Exiba o valor convertido de forma dinâmica na interface, com tratamento de erros e feedback visual (como mensagens de sucesso ou alerta em caso de falha na requisição).
